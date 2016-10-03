@@ -1,0 +1,1 @@
+# anups_magento_store_locator
